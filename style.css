@@ -95,8 +95,11 @@ body {
 }
 
 .access .error-msg {
-
-    font-size: 1rem;
+    position: absolute;
+    top: 2.5rem;
+    left: 2rem;
+    font-size: 0.70rem;
+    font-weight: bold;
 }
 
 .icons {

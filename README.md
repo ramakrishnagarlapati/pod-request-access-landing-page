@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/ramakrishnagarlapati/pod-request-access-landing-page/settings/pages)
+- Live Site URL: [live site](https://ramakrishnagarlapati.github.io/pod-request-access-landing-page/)
 
 ## My process
 
